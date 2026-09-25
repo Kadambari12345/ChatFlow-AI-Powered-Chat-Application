@@ -16,7 +16,7 @@ import {
 import { auth } from "./firebase";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://chatflow-ai-powered-chat-application.onrender.com";
 
 function App() {
   // =========================
